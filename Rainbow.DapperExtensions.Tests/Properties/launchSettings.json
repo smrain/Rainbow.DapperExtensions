@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rainbow.DapperExtensions.Tests": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
